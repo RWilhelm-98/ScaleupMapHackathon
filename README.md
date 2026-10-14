@@ -1,4 +1,5 @@
-Challenge 2: Smarter Onboarding
+## Challenge 2: Smarter Onboarding
+
 How might we use what we learn about a new user to send them to the right tool automatically?
 
 Build or design a system that:
